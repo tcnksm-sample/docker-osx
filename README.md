@@ -1,6 +1,6 @@
 # Run Docker from OSX
 
-Docker client OSX is [released](https://github.com/dotcloud/docker/blob/master/CHANGELOG.md#073-2014-01-02)
+Docker client for OSX is [released](https://github.com/dotcloud/docker/blob/master/CHANGELOG.md#073-2014-01-02)
 
 ## Usage
 
