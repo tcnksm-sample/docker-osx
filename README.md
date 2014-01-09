@@ -10,7 +10,7 @@ Run Vagrant VM
 $ vagrant up
 ```
 
-Set Docker host
+Set host for docker deamon
 ```
 $ export DOCKER_HOST="192.168.50.4:5422"
 ```
