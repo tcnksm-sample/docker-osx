@@ -20,7 +20,7 @@ Note: IP and PORT can change in Vagrantfile, `DOCKER_URL` and `DOCKER_PORT`
 Try it !
 
 ```
-$ docker build Dockerfile
+$ docker build -t tcnksm/sample .
 ```
 
 ## Requirement
