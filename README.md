@@ -10,12 +10,11 @@ Run Vagrant VM
 $ vagrant up
 ```
 
-Set host for docker deamon
+Set host for docker deamon (Note: IP and PORT can be modified in Vagrantfile, `DOCKER_URL` and `DOCKER_PORT`)
+
 ```
 $ export DOCKER_HOST="192.168.50.4:5422"
 ```
-Note: IP and PORT can change in Vagrantfile, `DOCKER_URL` and `DOCKER_PORT`
-
 
 Try it !
 
