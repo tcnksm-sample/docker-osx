@@ -23,6 +23,15 @@ Try it !
 $ docker build Dockerfile
 ```
 
+## Requirement
+
+Install docker client by Homebrew
+
+```
+$ brew bundle
+```
+
+
 ## Reference
 
 - [Introducing dvm - Docker in a box for Unsupported Platforms, like the Mac](http://hw-ops.com/blog/2014/01/07/introducing-dvm-docker-in-a-box-for-unsupported-platforms/)
